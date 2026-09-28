@@ -315,7 +315,7 @@ class _AddTaskWidgetState extends State<AddTaskWidget> {
                 height: 40.0,
                 padding: EdgeInsetsDirectional.fromSTEB(16.0, 0.0, 16.0, 0.0),
                 iconPadding: EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                color: FlutterFlowTheme.of(context).primary,
+                color: Color(0xFF245925),
                 textStyle: FlutterFlowTheme.of(context).labelMedium.override(
                       font: GoogleFonts.inter(
                         fontWeight:
