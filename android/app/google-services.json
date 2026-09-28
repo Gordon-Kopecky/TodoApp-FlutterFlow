@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593853689695",
+    "project_id": "todo-kax61s",
+    "storage_bucket": "todo-kax61s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593853689695:android:7c2d0eb20cf2b0958350ea",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQKqyl_u4H-6DCoHjee1PDbJJCeY8_rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
